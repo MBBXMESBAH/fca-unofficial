@@ -242,6 +242,7 @@ function buildAPI(globalOptions, html, jar) {
         "resolvePhotoUrl",
         "searchForThread",
         "sendMessage",
+        "sendLink",
         "sendTypingIndicator",
         "sendTypingIndicatorMqtt",
         "setMessageReaction",
